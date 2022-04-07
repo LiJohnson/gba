@@ -224,7 +224,7 @@ li.hide {
 /* Only show controls on portrait mode screens */
 @media screen and (min-aspect-ratio: 1/1) {
     .touch-controls{
-        display: none;
+        /*display: none;*/
     }
     #main {
         display: flex;
